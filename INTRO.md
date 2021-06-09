@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Computer Engineering.
 - 💞️ I’m looking to collaborate on Companies in need of a Web Developer.
 - 📫 How to reach me: megh.kurlekar@gmail.com
-- Fun fact: I am an International Chess Player.
+- 😁 Fun fact: I am an International Chess Player.
 
 <!---
 MEGH-KURLEKAR/MEGH-KURLEKAR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
