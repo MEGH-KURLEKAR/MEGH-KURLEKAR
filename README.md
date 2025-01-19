@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 - 👋 Hello, I’m @MEGH-KURLEKAR.
-- 👀 I’m interested in Web Development, App Development,AWS Cloud Computing, Python, ML, AI .
-- 🌱 I’m currently learning Computer Engineering.
-- 💞️ I’m looking to collaborate with Companies in need of a Web Developer.
+- 👀 I’m interested in Data Analytics, AWS Cloud Computing, Python, Web Development, and App Development.
+- 💞️ I’m looking to collaborate with Companies needing a Data Analyst or a Cloud Engineer.
 - 📫 How to reach me: megh.kurlekar@gmail.com
 - 😁 Fun fact: I am an International Chess Player.
 
