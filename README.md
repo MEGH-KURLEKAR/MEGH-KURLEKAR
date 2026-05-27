@@ -19,7 +19,7 @@ megh = {
     "role"       : "Data Analyst",
     "education"  : "M.S. Information Systems — Syracuse University '26",
     "skills"     : ["SQL", "Python", "R", "Power BI", "AWS", "Tableau"],
-    "experience" : "3+ years across analytics, ML modeling & cloud platforms",
+    "experience" : "1+ years across analytics, ML modeling & cloud platforms",
     "interests"  : ["Statistical Modeling", "Business Intelligence", "Data Engineering"],
     "fun_facts"  : ["International chess player ♟️", "National level soccer player ⚽"]
 }
